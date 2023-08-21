@@ -1,3 +1,5 @@
+## Project Description:
+The "Simple Calculator" project is a Java-based application that simulates a basic calculator. It allows users to perform simple arithmetic calculations such as addition, subtraction, multiplication, and division. The project aims to provide a user-friendly interface for performing calculations quickly and efficiently.
 Welcome
 --------|
 ![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
